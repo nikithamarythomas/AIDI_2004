@@ -1,7 +1,7 @@
 # AIDI_2004
 
-A simple calculator app with the following basic functions: \n
-1.Addition
-2.Subtraction
-3.Multiplication
-4.Division
+A simple calculator app with the following basic functions: <br>
+1.Addition<br>
+2.Subtraction<br>
+3.Multiplication<br>
+4.Division<br>
